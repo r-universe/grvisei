@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "InspectionPlanner"]
+	path = InspectionPlanner
+	url = https://github.com/cran/InspectionPlanner
 [submodule "PhytosanitaryCalculator"]
 	path = PhytosanitaryCalculator
 	url = https://github.com/cran/PhytosanitaryCalculator
